@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KakarotDeng
-- 👀 I’m interested in HDR Imaging, White Balance, Color Science
-- 🌱 I’m currently learning new HDR imaging methods
+- 👀 I’m interested in Color Science, Color Constancy, Color Correction, Tone Mapping
+- 🌱 I’m currently learning Color Constancy under multi-illuminant, Color Correction for Tone Mapping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me djcgreat@163.com
 - 😄 Pronouns: ...
